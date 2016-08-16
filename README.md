@@ -11,6 +11,8 @@ An annoying example of this is: https://mrsherlockholmes.github.io/script-jackin
 
 ## okay, how do I fix it??
 
-Well, you could run a script which checks the script for disruptive javascript. 
+A good idea is to recheck all the external script files you run. It's best to avoid obfuscated scripts. If you want to feel even safer, you could check unusual scripts for element change. That could, at least, serve as a deterrent.
+
+Well, that's what'll happen.
 
 **~ Currently, it's in development. ~**
