@@ -1,5 +1,7 @@
 /* takes an array of scripts urls, and checks for unusual stuff */
 
+// noooooo it doesn't work ;((((
+
 var xhttp = new XMLHttpRequest();
 var reject = false;
 urls = ["https://mrsherlockholmes.github.io/script-jacking/script-jacking.js"];
