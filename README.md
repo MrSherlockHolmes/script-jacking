@@ -11,6 +11,6 @@ An annoying example of this is: https://mrsherlockholmes.github.io/script-jackin
 
 ## okay, how do I fix it??
 
-Well, you could trust a script _(although in theory it could script-jack you)_ which checks a script for disruptive javascript. 
+Well, you could run a script which checks the script for disruptive javascript. 
 
 **~ Currently, it's in development. ~**
